@@ -1,0 +1,9 @@
+streamlit>=1.30
+requests
+python-docx
+pypdf
+openpyxl
+python-pptx
+Pillow
+rapidocr-onnxruntime
+opencv-python-headless
